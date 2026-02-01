@@ -1,16 +1,22 @@
 ## Hi there 👋
+My name is Bogdan. I’m a developer and graphic designer, working with .NET and Unity, improving my Git skills, and learning ASP.NET Core.
 
-<!--
-**TheDragonScripts/TheDragonScripts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 **How to reach me**
+<br>
+Feel free to contact me on [Telegram](https://t.me/murennauc) anytime. It's my preferred method of communication. I usually respond pretty quickly.
+</br>
 
-Here are some ideas to get you started:
+🏭 **Languages and tools**
+<br>
+[![Languages and tools](https://skillicons.dev/icons?i=unity,godot,cs,lua,git,linux,regex,ps,ai)](https://skillicons.dev)
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 **My projects**
+<br>
+Crazy Pool Puzzle mobile game published on [Google Play](https://play.google.com/store/apps/details?id=com.gornostaistudio.crazypoulepuzzle&hl=en)
+</br>
+
+⚡ **Fun fact**
+<br>
+Love Y2K vibes and rock 🎸
+</br>
