@@ -8,7 +8,7 @@ Feel free to contact me on [Telegram](https://t.me/murennauc) anytime. It's my p
 
 🏭 **Languages and tools**
 <br>
-[![Languages and tools](https://skillicons.dev/icons?i=unity,godot,cs,lua,git,linux,regex,ps,ai)](https://skillicons.dev)
+[![Languages and tools](https://skillicons.dev/icons?i=unity,godot,dotnet,cs,lua,git,linux,regex,ps,ai)](https://skillicons.dev)
 </br>
 
 💼 **My projects**
